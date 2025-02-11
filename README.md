@@ -1,9 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=fkasc&color=lightgrey&label=Profile+Views&base=12300)
 
-<div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=94928b&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Tabss;Welcome;Inquisitive+and+Curious+by+nature;+Learning+Software+Engineering;Backend+and+Frontend+Developer;Python+and+HTML+Lover;Hardworking+and+Ambitious;Gym+Freak;Music+and+Programming+Lover" alt="Typing SVG" /></a>
-  </div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hola%2C+soy+fkasc%2C+akka+zero.-day" alt="Typing SVG" /></a>
 
 <div align="center">
     <img src = "https://github.com/user-attachments/assets/489b2074-e880-4349-b1b2-4d329131f781" alt = "Profile Views"/>
